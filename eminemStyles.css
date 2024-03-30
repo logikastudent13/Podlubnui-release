@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(to right,gray,white,gray);
+}
+h1{
+font-family: coursiv ;
+text-align: center;
+text-shadow:  -8px 4px gray, -12px 6px white;
+}
+
